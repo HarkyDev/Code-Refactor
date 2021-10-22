@@ -1,1 +1,2 @@
 # HW-W1-CodeRefactor
+This project was to show my ability to improve working code and make it more appropriate when it comes to SEO optimization in terms of <h> tag usage, using correct semantics for elements for example the correct deployment of <div> and <section> tags etc. Also making sure that any features that the page has are consistent through the whole site and making sure that it meets accessibility standards. 
